@@ -1,0 +1,156 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://worknoon.com/#organization",
+  "name": "Worknoon",
+  "alternateName": "Worknoon - WordPress Development & SEO Services",
+  "url": "https://worknoon.com",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://worknoon.com/assets/logo.png",
+    "width": 280,
+    "height": 60
+  },
+  "image": "https://worknoon.com/assets/featured-image.png",
+  "description": "Worknoon specializes in WordPress development, SEO optimization, and digital transformation services. We help businesses build, optimize, and scale their online presence through custom WordPress solutions and data-driven SEO strategies.",
+  "brand": {
+    "@type": "Brand",
+    "name": "Worknoon",
+    "logo": "https://worknoon.com/assets/logo.png"
+  },
+  "foundingDate": "2025-01-15",
+  "foundingLocation": {
+    "@type": "Place",
+    "name": "Atlanta",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "US",
+      "addressRegion": "Georgia"
+    }
+  },
+  "founder": [
+    {
+      "@type": "Person",
+      "@id": "https://worknoon.com/#founder",
+      "name": "Founder Name",
+      "jobTitle": "CEO & Founder",
+      "url": "https://linkedin.com/in/founder-profile"
+    }
+  ],
+  "contact": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "Customer Support",
+      "email": "careers@worknoon.com",
+      "availableLanguage": [
+        "en"
+      ],
+      "areaServed": [
+        "US",
+        "GB",
+        "CA",
+        "AU",
+        "NG"
+      ]
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "Sales",
+      "email": "sales@worknoon.com",
+      "availableLanguage": [
+        "en"
+      ]
+    }
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Customer Support",
+    "email": "careers@worknoon.com",
+    "telephone": "+234-XXX-XXX-XXXX"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/company/worknoonhq",
+    "https://x.com/worknoon",
+    "https://www.instagram.com/worknoon/"
+  ],
+  "knowsAbout": [
+    "WordPress Development",
+    "SEO Optimization",
+    "Performance Tuning",
+    "Schema Markup Implementation",
+    "Google Analytics",
+    "Knowledge Graph Optimization",
+    "Content Strategy",
+    "Web Performance"
+  ],
+  "areaServed": [
+    {
+      "@type": "Country",
+      "name": "United States"
+    },
+    {
+      "@type": "Country",
+      "name": "Nigeria"
+    },
+    {
+      "@type": "Country",
+      "name": "United Kingdom"
+    },
+    {
+      "@type": "Country",
+      "name": "Canada"
+    },
+    {
+      "@type": "Country",
+      "name": "Australia"
+    },
+    {
+      "@type": "Country",
+      "name": "India"
+    }
+  ],
+  "memberOf": {
+    "@type": "Organization",
+    "name": "WordPress VIP Partners",
+    "url": "https://wpvip.com"
+  },
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "WordPress Certified Developer",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "Wordpress.org",
+        "url": "https://wordpress.org"
+      }
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "name": "Google Partner",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "Google",
+        "url": "https://google.com"
+      }
+    }
+  ],
+  "potentialAction": {
+    "@type": "Action",
+    "name": "Get Expert WordPress Development",
+    "target": {
+      "@type": "EntryPoint",
+      "url": "https://worknoon.com/contact",
+      "actionPlatform": [
+        "DesktopWebPlatform",
+        "MobileWebPlatform"
+      ]
+    }
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "ratingCount": "47",
+    "bestRating": "5",
+    "worstRating": "1"
+  }
+}
