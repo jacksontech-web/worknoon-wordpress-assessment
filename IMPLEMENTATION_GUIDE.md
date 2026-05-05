@@ -17,11 +17,7 @@ This document outlines the implementation of the WordPress assessment project. I
 ### Schema (JSON-LD)
 - `organization-schema.json`  
 - `person-schema.json`  
-- `website-schema.json`  
-
-### Core Code
-- `functions.php` – Theme logic, schema output, performance tweaks  
-- `contact-form.php` – Form handling and validation  
+- `website-schema.json`   
 
 ---
 
@@ -32,7 +28,7 @@ The landing page was built using Elementor with a focus on clarity, responsivene
 ### Structure
 - **Hero Section** – Headline, subtext, and CTA  
 - **Services Section** – Grid layout with key offerings  
-- **Testimonials** – Social proof using a carousel  
+- **Testimonials** – proof using a carousel  
 - **Contact Section** – Simple form for user inquiries  
 - **Footer** – Basic company and navigation info  
 
@@ -161,7 +157,7 @@ Familiar with tools like FirstPromoter conceptually, particularly around referra
 
 /schema/ → JSON-LD files  
 /docs/ → SEO and strategy documents  
-/theme/ → WordPress theme files  
+/theme/ → WordPress files  
 
 ---
 
