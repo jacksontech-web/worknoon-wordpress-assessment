@@ -8,7 +8,7 @@ A responsive WordPress landing page demonstrating development, SEO optimization,
 
 Setup Instructions
 
-Exported Site & Live Deployment
+Exported Site & Live Deployment (File Name: jacksonworknoon-local-20260505-131636-o38le4xfj8rp.wpress)
 
 The WordPress site has been fully exported and can be easily launched on any live server environment. Once deployed, you can access the admin dashboard using the credentials below:
 
